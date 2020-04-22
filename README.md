@@ -1,3 +1,6 @@
+## Summary
+Assignment 1 of "react - The complete Guide" offered on Udemy
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
