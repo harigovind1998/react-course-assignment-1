@@ -1,5 +1,5 @@
 ## Summary
-Assignment 1 of ("react - The complete Guide") [https://www.udemy.com/course/react-the-complete-guide-incl-redux/] offered on Udemy
+Assignment 1 of ["react - The complete Guide"] (https://www.udemy.com/course/react-the-complete-guide-incl-redux/) offered on Udemy
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
